@@ -1,0 +1,28 @@
+# NU Dissertation — direct Python dependencies
+# Python 3.12.4 (Anaconda, Windows)
+# Versions marked below reflect the supplied environment export.
+# Unpinned dependencies need version verification before final reproducibility release.
+
+# Data processing and statistics
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+scikit-learn==1.5.1
+
+# Visualization
+matplotlib
+seaborn
+
+# Neural networks
+tensorflow==2.18.0
+keras==3.6.0
+
+# Notebook environment
+notebook
+
+# Statistical comparisons (install when needed)
+# scikit-posthocs
+
+# Text analysis (install when needed)
+# sentence-transformers
+# spacy
